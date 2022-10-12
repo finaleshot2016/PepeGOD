@@ -9,8 +9,8 @@ const About = () => {
         <div id="roadmap">
         <img className='justify-center' src={terminal1} alt="/" />
 
-         <p className='text-black text-6xl'>Contract Address: 0x4c57dFF92DB3cBB7071E8159960A3b2c488d33C7 <br /> <br />
-
+         <p className='text-black text-4xl'>Contract Address: 0x4c57dFF92DB3cBB7071E8159960A3b2c488d33C7 </p>   <br /> <br />
+ <p className='text-black text-lg'>
 There was this theory that this God is called PepeGod or God of Memes. <br />Early depictures of PepeGod 
          are widely spread around the earth, with all of his <br />Glory and Greatness in every ancient story behind it.<br />
          <br />
